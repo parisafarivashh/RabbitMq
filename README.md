@@ -1,3 +1,3 @@
 # RabbitMq
 
-# Example code for using RabbitMq 
+### Example code for using RabbitMq 
